@@ -5,7 +5,7 @@
   </a>
 </p>
 
-# SQL Guest Book 📖
+# Sketch Pad 📖
 
 ## 🌐 [Live](https://wisecoding.github.io/sketch-pad/)
 
